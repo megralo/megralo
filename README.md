@@ -2,7 +2,10 @@
 
 
 # Ciao. Sono *Carmelo*. 
-  Qui ci sono alcuni dei miei lavori. Profilo in costante aggiornamento :computer:
+  Sono Jr Full Stack Developer, mi trovo a Brescia e sto per completare il corso di formazione di Boolean Careers.
+
+  Qui ci sono alcuni dei miei lavori. 
+  Il mio profilo è in costante aggiornamento :computer: e tiene traccia dei miei studi, tentavi e conquiste! :mountain:
 
 ## Cosa ho imparato durante il corso in Boolean?
   Ecco le competenze e gli stack appresi per creare web-app e pagine web.
