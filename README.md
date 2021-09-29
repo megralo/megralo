@@ -2,7 +2,7 @@
 
 
 # Ciao. Sono *Carmelo*. 
-  Sono Jr. Full Stack Web Developer, mi trovo a Brescia e sto per completare il corso di formazione di Boolean Careers.
+  Sono Jr. Full Stack Web Developer, mi trovo a Brescia e sto per completare il corso di formazione di [Boolean Careers - https://www.boolean.careers/corso/full-time]
 
   Qui ci sono alcuni dei miei lavori. 
   Il mio profilo è in costante aggiornamento :computer: e tiene traccia dei miei studi, tentavi e conquiste! :mountain:
