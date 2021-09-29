@@ -5,7 +5,7 @@
   Qui ci sono alcuni dei miei lavori. Profilo in costante aggiornamento :computer:
 
 ## Cosa ho imparato durante il corso in Boolean?
-  Ecco le competenze e gli stack per creare web-app e pagine web.
+  Ecco le competenze e gli stack appresi per creare web-app e pagine web.
 
 <p align="left"> 
 
