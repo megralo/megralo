@@ -101,3 +101,15 @@
   </a>
 
 </p>
+
+## Ecco alcuni dei miei badge
+
+<p align="left">
+  <a href="https://www.codewars.com/users/megralo" target="_blank"> 
+      <img 
+        src="https://www.codewars.com/users/megralo/badges/large" 
+        alt="kata" 
+        width="300" 
+        height="35"/> 
+  </a>
+</p>
